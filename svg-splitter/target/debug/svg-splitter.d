@@ -1,1 +1,0 @@
-/Users/mohan/Desktop/Void/sig-splitter/svg-splitter/target/debug/svg-splitter: /Users/mohan/Desktop/Void/sig-splitter/svg-splitter/src/artboard.rs /Users/mohan/Desktop/Void/sig-splitter/svg-splitter/src/bounds.rs /Users/mohan/Desktop/Void/sig-splitter/svg-splitter/src/main.rs /Users/mohan/Desktop/Void/sig-splitter/svg-splitter/src/splitter.rs
